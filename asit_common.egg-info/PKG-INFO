@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: asit-common
+Version: 0.1.0
+Summary: Configuration and common shared code for the ASIT scripting environment
+Home-page:  https://github.com/chetmurphy/asit-common.git
+Author: Chet Murphy
+Author-email: chetmurphy@hotmail.com
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Windows
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE
